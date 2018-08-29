@@ -6,4 +6,5 @@ Kurs programiranja sa fokusom na web
 - Class 2 - Uvod u Web <br/>
 
 **Week 2** <br/>
-- Class 1 - HTML, uvod <br/>
+- Class 3 - HTML, uvod <br/>
+- Class 4 - HTML, nastavak <br/>
