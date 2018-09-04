@@ -1,0 +1,16 @@
+.block{
+    width: 300px;
+    min-height: 250px;
+    position: relative;
+    margin: 20px auto;
+}
+
+section:not(:target) > a {
+    background-color: #ccc;
+  }
+  section:target > a {
+    background-color: white;
+    border-bottom-color: #fff;
+  }
+  section:not(:target) > div { z-index: -2; }
+  section:target > div { z-index: -1; }
