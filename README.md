@@ -14,3 +14,4 @@ Kurs programiranja sa fokusom na web
 
 **Week 3** <br/>
 - Class 5 - CSS, uvod <br/>
+- Class 6 - CSS, nastavak, selektori <br/>
