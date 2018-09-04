@@ -1,0 +1,44 @@
+* {
+    font-size: 18px;
+}
+
+#myID  { color: blue; }
+
+p {
+    color:green;
+}
+
+
+li   { color: yellow; font-size:20px; }
+
+.myClass  { color: red; }
+
+div ul {
+    font-weight: 100;
+}
+
+ul  { font-weight: bold; }
+
+a:hover{
+    color: red;
+}
+
+a {
+    color: green;
+}
+
+.paragrafi p:first-child {
+    color: blue; 
+}
+
+div > p {
+    font-size: 20px;
+}
+
+div.paragrafi ~ p {
+    color: yellow
+}
+
+div.paragrafi + p{
+    color: grey
+}

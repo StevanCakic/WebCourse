@@ -12,6 +12,12 @@ h1 {
     border: 9px dotted gray;
     text-align: center;
   }
+
+  span {
+    color: yellow;
+    text-decoration: underline;
+    font-style: italic;
+  }
   
   p {
     font-family: Comic Sans MS;
@@ -20,15 +26,12 @@ h1 {
     color: white;
   }
   
+  
+
   div {
     color: blue;
   }
   
-  span {
-    color: yellow;
-    text-decoration: underline;
-    font-style: italic;
-  }
   
   ol {
     list-style: upper-roman;
