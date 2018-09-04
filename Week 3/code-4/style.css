@@ -1,0 +1,73 @@
+.structural {
+  float: right;
+  width: 33%;
+}
+
+.count li {
+  display: inline-block;
+}
+
+ul {
+  padding: 0;
+}
+
+.content li {
+  border: 1px solid;
+}
+
+
+
+li:first-child,
+li:last-child {
+  font-weight: bold;
+}
+li:first-of-type,
+li:last-of-type {
+  text-decoration: line-through;
+}
+li:nth-child(even) {
+  background-color: #ccc;
+}
+li:nth-child(3) {
+  color: #ccc;
+}
+li:nth-of-type(odd) {
+  background-color: #fff;
+}
+li:nth-of-type(4n) {
+  color: hsl(205, 87%, 50%);
+}
+li:nth-of-type(3n-1) {
+  text-align: right;
+}
+
+/*Drugi dio*/
+
+li:only-of-type {
+  width: 100%;
+}
+
+li:nth-of-type(1):nth-last-of-type(2),
+li:nth-of-type(2):nth-last-of-type(1) {
+  width: 49%;
+}
+
+li:nth-of-type(1):nth-last-of-type(3),
+li:nth-of-type(3):nth-last-of-type(1),
+li:nth-of-type(2):nth-last-of-type(2) {
+  width: 32.7%;
+}
+
+li:nth-of-type(1):nth-last-of-type(4),
+li:nth-of-type(2):nth-last-of-type(3),
+li:nth-of-type(3):nth-last-of-type(2),
+li:nth-of-type(4):nth-last-of-type(1) {
+  width: 24%;
+}
+
+tr:nth-of-type(even) td:nth-of-type(even),
+tr:nth-of-type(odd) td:nth-of-type(odd) {
+  background-color: #900;
+  color: #fff;
+}
+
