@@ -4,6 +4,9 @@ Kurs programiranja sa fokusom na web
 **Homeworks** <br/>
 - Homework 1 - HTML
 
+**Tests** <br/>
+- Initial test
+
 **Week 1** <br/>
 - Class 1 - Uvod <br/>
 - Class 2 - Uvod u Web <br/>
