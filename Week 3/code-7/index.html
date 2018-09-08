@@ -3,7 +3,9 @@
 
 <head>
     <style>
+        
         #customers {
+            caption-side: bottom;
             font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
             border-collapse: collapse;
             width: 100%;
@@ -26,7 +28,7 @@
         #customers th {
             padding-top: 12px;
             padding-bottom: 12px;
-            text-align: left;
+            text-align: center;
             background-color: #4CAF50;
             color: white;
         }
@@ -36,6 +38,10 @@
 <body>
 
     <table id="customers">
+        <caption>Tabela 1</caption>
+        <colgroup>
+            <col span="1" style="background-color: red;">
+        </colgroup>
         <tr>
             <th>Company</th>
             <th>Contact</th>
