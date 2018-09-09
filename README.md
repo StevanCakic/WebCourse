@@ -3,6 +3,7 @@ Kurs programiranja sa fokusom na web
 
 **Homeworks** <br/>
 - Homework 1 - HTML
+- Homework 2 - CSS
 
 **Tests** <br/>
 - Initial test
@@ -19,3 +20,6 @@ Kurs programiranja sa fokusom na web
 - Class 5 - CSS, uvod <br/>
 - Class 6 - CSS, nastavak, selectors <br/>
 - Class 7 - CSS, nastavak, properties <br/>
+
+**Week 4** <br/>
+- Class 8 - CSS, nastavak, Web Layout <br/>
