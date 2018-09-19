@@ -22,3 +22,26 @@ console.log(razlika);
     // o ovom problemu cemo detaljno govoriti u poglavlju Hoisting!
 
 
+// Primjer 3
+
+// O ovome cemo puno detaljnije naknadno da govorimo u poglavlju higher order functions i closure
+// Closure koncept ima niz prednosti koje cete uskoro vidjeti
+function saberi(a) {
+  return function(b) {
+    return a + b;
+  }
+}
+
+var sab3 = saberi(3);
+console.log(sab3(5));
+
+// Primjer 4 (defalt value)
+
+function mult(a,b){
+  var a = a || 5;
+  return a * b;
+}
+
+console.log(mult(3));
+console.log(mult(2,3));
+
