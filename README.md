@@ -28,4 +28,5 @@ Kurs programiranja sa fokusom na web
 - Class 10 - CSS, nastavak, Flex
 
 **Week 5** <br/>
-- Class 11 - JavaScript, Uvod
+- Class 11 - JavaScript, Uvod <br/>
+- Class 12 - JavaScript, drugi dio
