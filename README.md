@@ -3,7 +3,8 @@ Kurs programiranja sa fokusom na web
 
 **Homeworks** <br/>
 - Homework 1 - HTML
-- Homework 2 - CSS
+- Homework 2 - HTML, CSS
+- Homework 3 - HTML, CSS, JS (DOM i Events)
 
 **Tests** <br/>
 - Initial test
