@@ -38,7 +38,7 @@ console.log(sab3(5));
 // Primjer 4 (defalt value)
 
 function mult(a,b){
-  var a = a || 5;
+  var b = b || 5;
   return a * b;
 }
 

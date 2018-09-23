@@ -10,9 +10,9 @@ console.log(baz);
 baz = +foo; //explicit coercion?
 console.log(baz);
 
-baz = 456;
-foo = baz.toString();
-console.log(foo);
+var baz = 456;
+var newBaz = baz.toString();
+console.log(newBaz);
 
 foo = String(baz);
 console.log(foo);
