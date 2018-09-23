@@ -29,4 +29,9 @@ Kurs programiranja sa fokusom na web
 
 **Week 5** <br/>
 - Class 11 - JavaScript, Uvod <br/>
-- Class 12 - JavaScript, drugi dio
+- Class 12 - JavaScript, drugi dio <br /> 
+    if/else, coersion, loops, functions - introduction, objects - introduction <br/>
+
+**Week 6** <br/>
+- Class 13 - JavaScipt, treci dio <br/>
+    scope, hoisting, data types methods, Math <br/>
