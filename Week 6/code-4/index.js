@@ -1,12 +1,12 @@
 // Primjer 1
-
+/*
 console.log(a);
 console.log(b);
 var a = b;
 var b = 2;
 console.log(b);
 console.log(a);
-
+*/
 /* Sta se ovdje upravo desilo "ispod haube" */
 
 // Primjer 2
@@ -30,7 +30,7 @@ var d = function() {
 // Primjer 3
 // Zakomentarisati ostale primjere
 
-/*
+
 function foo(bar){
   if(bar){
     console.log(baz);
@@ -38,4 +38,4 @@ function foo(bar){
   }
 }
 
-foo("bar");*/
+foo("bar");

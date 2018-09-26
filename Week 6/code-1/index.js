@@ -31,10 +31,11 @@ meaningless();
 
 // Primjer 5
 const y = 10;
-// y = 0; // error!
+//y = 0; // error!
 // y++; // error!
 const list = [1, 2, 3];
 list.push(4); // OKs
+console.log(list);
 
 const obj = { name: "Ime" };
 obj.name = "Ime2";// Ok

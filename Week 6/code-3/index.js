@@ -1,5 +1,5 @@
 // Primjer 1
-
+/*
 var foo = "foo";
 
 function bob() {
@@ -9,16 +9,17 @@ function bob() {
 
 bob();
 console.log(foo);
-
+*/
 // Primjer 2
 // IIFE
+/*
 (function bob() {
   // ova funkcija ce odma da se pozove
   var foo = "foo2";
   console.log(foo);
 })();
 
-console.log(foo);
+console.log(foo);*/
 
 // Primjer 3
 (function IIFE(bar) {
@@ -26,6 +27,8 @@ console.log(foo);
   var foo = "foo2";
   console.log(foo);
   console.log(bar);
+  
 })(foo);
 
+console.log()
 

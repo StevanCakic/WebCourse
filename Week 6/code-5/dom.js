@@ -41,3 +41,54 @@ headerTitle.style.borderBottom="solid 3px #000"; // camel case umjesto -
 
 // b) getElementsByClassName
 var items = document.getElementsByClassName("list-group-item");
+// console.log(items);// HTML collection
+// console.log(items[1]);
+
+// Napomena, HTML elementi najčešće se imenuju pomoću klasa
+// document.getElementsByClassName("list-group-item")[0]
+/* items[1].textContent = "Hello 2";
+items[1].style.fontWeigth = "bold";
+items[1].style.backgroundColor = "yellow";
+*/
+
+// Kako bismo sada promijenilo bacground color
+// svim itemima u plavu ?
+
+// items.style.background = "blue" //mozda ovako?
+
+// c) getElementsByTagName
+var li = document.getElementsByTagName("li");
+// console.log(li);
+
+// d) querySelector
+var header = document.querySelector("#main-header");
+console.log(header);
+
+/*
+var input = document.querySelector("input");
+input.value = "Hello World";
+
+var submit = document.querySelector('input[type="submit"]');
+submit.value = "SEND";
+
+var item = document.querySelector(".list-group-item");
+item.style.color = "red";
+
+var lastItem = document.querySelector(".list-group-item:last-child");
+lastItem.style.color = "blue";
+
+var secondItem = document.querySelector(".list-group-item:nth-child(2)");
+secondItem.style.color = "coral";
+*/
+
+// e) querySelectorAll
+var titles = document.querySelectorAll(".title");
+console.log(titles);
+// videte li koji je tip podatka titles?
+// isto kao HTML collection, osim sto podržava
+// pozivanje metoda nizova !
+/*
+var odd = document.querySelectorAll("li:nth-child(odd)");
+for(var i = 0; i < odd.length; i++){
+    odd[i].style.backgroundColor = "grey";
+}*/
