@@ -1,4 +1,4 @@
-// 1. Predgled document objekta propertija
+// 1. Predgled document objekta
 
 console.dir(document);
 // Razlika izmedju log i dir, vidite li je?
