@@ -36,3 +36,5 @@ Kurs programiranja sa fokusom na web
 **Week 6** <br/>
 - Class 13 - JavaScipt, treci dio <br/>
     scope, hoisting, data types methods, Math <br/>
+- Class 14 - JavaScript, cetvrti dio <br/>
+    DOM

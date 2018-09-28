@@ -1,5 +1,5 @@
 // 1. Predgled document objekta
-
+/*
 console.dir(document);
 // Razlika izmedju log i dir, vidite li je?
 console.log(document.URL); // url
@@ -13,7 +13,7 @@ console.log(document.body); // body element
 console.log(document.all); // svi DOM elementi
 console.log(document.all[10]); // deseti HTML element
 
-// document.all[10].textContent = "Hello"; // sta ce ovdje da se desi ?
+document.all[10].textContent = "Hello"; // sta ce ovdje da se desi ?
 // Ovo se ne radi ovako !
 
 console.log(document.forms); // sve forme na stranici sacuvane u HTML kolekciji
@@ -22,7 +22,7 @@ console.log(document.forms[0]); //pristup elementu niza
 
 console.log(document.links); // svi linkovi sa stranice
 console.log(document.images); //sve slike sa stranice
-
+*/
 // 2. Traženje HTML elemenata
 // a) getElementById
 // console.log(document.getElementById("header-title")); // trazimo element po IDu
@@ -54,8 +54,14 @@ items[1].style.backgroundColor = "yellow";
 
 // Kako bismo sada promijenilo bacground color
 // svim itemima u plavu ?
+/*
+for(var i = 0; i < items.length; i++){
+    items[i].style.backgroundColor = "blue";
+}
+*/
 
 // items.style.background = "blue" //mozda ovako?
+// Neeee
 
 // c) getElementsByTagName
 var li = document.getElementsByTagName("li");
@@ -63,8 +69,8 @@ var li = document.getElementsByTagName("li");
 
 // d) querySelector
 var header = document.querySelector("#main-header");
-
 /*
+
 console.log(header);
 var input = document.querySelector("input");
 input.value = "Hello World";
@@ -87,18 +93,19 @@ var titles = document.querySelectorAll(".title");
 
 // console.log(titles);
 // videte li koji je tip podatka titles?
-// isto kao HTML collection, osim sto podržava
-// pozivanje metoda nizova !
+
 
 // Kako biste selektovali sve elemente koji imaju class name
 // card i card-body
+
+// console.log(document.querySelectorAll(".card, .card-body"));
 
 /*
 var odd = document.querySelectorAll("li:nth-child(odd)");
 for(var i = 0; i < odd.length; i++){
     odd[i].style.backgroundColor = "grey";
-}*/
-
+}
+*/
 // 3. Obilazak DOMa
 var itemList = document.querySelector("#items");
 // parentNode
@@ -152,7 +159,7 @@ itemList.lastElementChild.textContent = "Hello 1";
 */
 
 // nextSibling
-// console.log(itemList.nextSibling);
+//console.log(itemList.nextSibling);
 
 // nextElementSibling
 // console.log(itemList.nextElementSibling);
@@ -235,11 +242,11 @@ parent.replaceChild(para, child);
 
 var items = document.getElementById("items");
 var firstChild = items.firstElementChild;
-// firstChild.classList.remove("list-group-item");
-// firstChild.classList.add("list-group-item");
+//firstChild.classList.remove("list-group-item");
+//firstChild.classList.add("list-group-item");
 
 // Kako da provjerite da li element ima određenu klasu
-// firstChild.classList.contains("list-group-item")
+console.log(firstChild.classList.contains("list-group-item"));
 
 // Malo tezi primjer, rekurzivni obilazak DOMa
 function walkTree(root, level) {
@@ -253,4 +260,4 @@ function walkTree(root, level) {
   }
 }
 
-// walkTree(document.querySelector("html"), "");
+walkTree(document.querySelector("html"), "");
