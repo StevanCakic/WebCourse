@@ -16,9 +16,10 @@ let noneOnce = {
 
 outer.addEventListener('click', noneOnceHandler, noneOnce);
 // outer.addEventListener('click', onceHandler, once);
+// outer.addEventListener('click', (e) => captureHandler(e, "outer"), capture);
 
 middle.addEventListener('click', noneCaptureHandler, noneCapture);
-// middle.addEventListener('click', captureHandler, capture);
+// middle.addEventListener('click', (e) => captureHandler(e, "inner"), capture);
 
 function onceHandler(event) {
     alert('outer, once');
@@ -26,10 +27,11 @@ function onceHandler(event) {
 function noneOnceHandler(event) {
     alert('outer, none-once, default');
 }
-function captureHandler(event) {
+function captureHandler(event, elem ) {
     //event.stopPropagation();
-    alert('inner, capture');
+    alert(`${elem}, capture, not-default`);
 }
 function noneCaptureHandler(event) {
+    // event.stopPropagation();
     alert('inner, none-capture, default');
 }
