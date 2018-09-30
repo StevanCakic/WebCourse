@@ -26,7 +26,7 @@ Kurs programiranja sa fokusom na web
 **Week 4** <br/>
 - Class 8 - CSS, nastavak, Web Layout <br/>
 - Class 9 - CSS, nastavak, Responsive basics <br/>
-- Class 10 - CSS, nastavak, Flex
+- Class 10 - Test I, CSS, nastavak, Flex
 
 **Week 5** <br/>
 - Class 11 - JavaScript, Uvod <br/>
