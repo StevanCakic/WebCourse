@@ -42,3 +42,8 @@ Kurs programiranja sa fokusom na web
 **Week 7** <br/>
 - Class 15 - JavaScript, peti dio <br/>
     Events <br/>
+- Class 16 - Test II <br/>
+
+**Week 8** <br/>
+- Class 17 - JavaScript, sesti dio <br/>
+    Window i BOM
