@@ -48,5 +48,5 @@ Kurs programiranja sa fokusom na web
 **Week 8** <br/>
 - Class 17 - JavaScript, sesti dio <br/>
     Window i BOM <br/>
-- Class 18 - JavaScript, sedmi dio
+- Class 18 - JavaScript, sedmi dio <br/>
     Call stack, execution context, Callbacks, HOF, Closures - part 1 <br/>
