@@ -49,4 +49,4 @@ Kurs programiranja sa fokusom na web
 - Class 17 - JavaScript, sesti dio <br/>
     Window i BOM <br/>
 - Class 18 - JavaScript, sedmi dio <br/>
-    Call stack, execution context, Callbacks, HOF, Closures - part 1 <br/>
+    Call stack, execution context, Callbacks, HOF <br/>
