@@ -50,3 +50,7 @@ Kurs programiranja sa fokusom na web
     Window i BOM <br/>
 - Class 18 - JavaScript, sedmi dio <br/>
     Call stack, execution context, Callbacks, HOF <br/>
+
+**Week 9** <br/>
+- Class 19 - JavaScript, osmi dio <br/>
+    Closure, Timers under the hood
