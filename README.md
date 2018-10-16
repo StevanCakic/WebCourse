@@ -58,11 +58,11 @@ Kurs programiranja sa fokusom na web
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
-    JavaScript: The Hard Parts (Frontend Masters) <br/>
-    JavaScript: Understanding the Weird Parts (Udemy) <br/>
-    Deep JavaScript Foundations (Frontend Masters) <br/>
-    W3Schools <br/>
-    The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
-    CodeWars <br/>
-    CSS In-Depth, v2 (Frontend Masters) <br/>
-    Traversy Media (Youtube) <br/>
+    *JavaScript: The Hard Parts (Frontend Masters) <br/>
+    *JavaScript: Understanding the Weird Parts (Udemy) <br/>
+    *Deep JavaScript Foundations (Frontend Masters) <br/>
+    *W3Schools <br/>
+    *The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
+    *CodeWars <br/>
+    *CSS In-Depth, v2 (Frontend Masters) <br/>
+    *Traversy Media (Youtube) <br/>
