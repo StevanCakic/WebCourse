@@ -64,5 +64,5 @@ Kurs programiranja sa fokusom na web
     W3Schools <br/>
     The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
     CodeWars <br/>
-    CSS In-Depth, v2 <br/>
+    CSS In-Depth, v2 (Frontend Masters) <br/>
     Traversy Media (Youtube) <br/>
