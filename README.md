@@ -53,7 +53,9 @@ Kurs programiranja sa fokusom na web
 
 **Week 9** <br/>
 - Class 19 - JavaScript, osmi dio <br/>
-    Closure, Timers under the hood
+    Closure, Timers under the hood <br/>
+- Class 20 - JavaScript, deveti dio <br/>
+    Closure-Part II, ByVal vs ByRef, Errors, Dates </br>
 
 
 **Reference** <br/>
