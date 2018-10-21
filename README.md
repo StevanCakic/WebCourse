@@ -56,7 +56,10 @@ Kurs programiranja sa fokusom na web
     Closure, Timers under the hood <br/>
 - Class 20 - JavaScript, deveti dio <br/>
     Closure-Part II, ByVal vs ByRef, Errors, Dates </br>
-
+    
+**Week 10** <br/>
+- Class 21 - JavaScript, deseti dio <br/>
+    AJAX, XML, JSON <br/>
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
