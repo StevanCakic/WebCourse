@@ -6,6 +6,8 @@ Kurs programiranja sa fokusom na web
 - Homework 2 - HTML, CSS
 - Homework 3 - HTML, CSS, JS (DOM i Events)
 - Homework 4 - JS mostly (DOM, Events, Callbacks, Closures)
+- Homework 5 - JS mostly (DOM, Events, Timers, App)
+- Homework 6 - Creating application
 
 **Tests** <br/>
 - Initial test
