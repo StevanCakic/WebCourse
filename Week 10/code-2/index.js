@@ -3,8 +3,7 @@ function $(selector) {
 }
 
 function loadDoc(url, cFunction) {
-    var xhttp;
-    xhttp = new XMLHttpRequest();
+    let xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             cFunction(this);
@@ -25,7 +24,7 @@ function myFunction2(xhttp) {
     let txt = "";
     let x = xmlDoc.getElementsByTagName("ARTIST");
     for (let i = 0; i < x.length; i++) {
-        txt = txt + x[i].childNodes[0].nodeValue + "<br>";
+        txt = txt + x[i].childNodes[0].textContent + "<br>";
     }
     console.log(xhttp.getResponseHeader("last-modified"));
     $("#demo").innerHTML = txt;
