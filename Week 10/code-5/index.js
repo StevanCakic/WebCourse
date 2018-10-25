@@ -4,7 +4,8 @@ function imgLoad(url) {
     // with two parameters, resolve and reject
     return new Promise(function (resolve, reject) {
         // Standard XHR to load an image
-        var request = new XMLHttpRequest();
+        
+        const request = new XMLHttpRequest();
         request.open('GET', url);
         request.responseType = 'blob';
         // When the request loads, check whether it was successful
@@ -27,15 +28,20 @@ function imgLoad(url) {
     });
 }
 // Get a reference to the body element, and create a new image object
-var body = document.querySelector('body');
-var myImage = new Image();
+const body = document.querySelector('body');
+const myImage = new Image();
 // Call the function with the URL we want to load, but then chain the
 // promise then() method on to the end of it. This contains two callbacks
 imgLoad('myLittleVader.jpg').then(function (response) {
     // The first runs when the promise resolves, with the request.response
     // specified within the resolve() method.
-    var imageURL = window.URL.createObjectURL(response);
+    
+    console.log(response);
+    const imageURL = window.URL.createObjectURL(response);
+    
+    console.log(imageURL);
     myImage.src = imageURL;
+
     body.appendChild(myImage);
     // The second runs when the promise
     // is rejected, and logs the Error specified with the reject() method.
