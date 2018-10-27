@@ -62,7 +62,10 @@ Kurs programiranja sa fokusom na web
     
 **Week 10** <br/>
 - Class 21 - JavaScript, deseti dio <br/>
-    AJAX, XML, JSON <br/>
+    AJAX, XML <br/>
+- Class 22 - JavaScript, jedanaesti dio <br/>
+    JSON, Promises
+- Class 23 - Test III <br/>
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
