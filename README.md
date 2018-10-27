@@ -13,6 +13,7 @@ Kurs programiranja sa fokusom na web
 - Initial test
 - Test 1
 - Test 2
+- Test 3
 
 **Week 1** <br/>
 - Class 1 - Uvod <br/>
