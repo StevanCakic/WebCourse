@@ -68,6 +68,10 @@ Kurs programiranja sa fokusom na web
     JSON, Promises
 - Class 23 - Test III <br/>
 
+**Week 11** <br/>
+- Class 24 - JavaScript, dvanaesti dio <br/>
+    Promises in depth <br/>
+
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
     *JavaScript: The Hard Parts (Frontend Masters) <br/>
