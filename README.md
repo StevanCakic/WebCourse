@@ -71,6 +71,8 @@ Kurs programiranja sa fokusom na web
 **Week 11** <br/>
 - Class 24 - JavaScript, dvanaesti dio <br/>
     Promises in depth <br/>
+- Class 25 - JavaScript, trinaesti dio <br/>
+    Fetch API <br/>    
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
