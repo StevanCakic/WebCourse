@@ -73,15 +73,19 @@ Kurs programiranja sa fokusom na web
     Promises in depth <br/>
 - Class 25 - JavaScript, trinaesti dio <br/>
     Fetch API <br/>    
+    
+**Week 12** <br/>
+- Class 26 - JavaScript, cetrnaesti dio <br/>
+    Funcional programming
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
-    *JavaScript: The Hard Parts (Frontend Masters) <br/>
-    *JavaScript: Understanding the Weird Parts (Udemy) <br/>
-    *Deep JavaScript Foundations (Frontend Masters) <br/>
-    *W3Schools <br/>
-    *The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
-    *CodeWars <br/>
-    *CSS In-Depth, v2 (Frontend Masters) <br/>
-    *Traversy Media (Youtube) <br/>
+    * JavaScript: The Hard Parts (Frontend Masters) <br/>
+    * JavaScript: Understanding the Weird Parts (Udemy) <br/>
+    * Deep JavaScript Foundations (Frontend Masters) <br/>
+    * W3Schools <br/>
+    * The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
+    * CodeWars <br/>
+    * CSS In-Depth, v2 (Frontend Masters) <br/>
+    * Traversy Media (Youtube) <br/>
     * Anjana Vakil — Functional Programming in JS: What? Why? How? (Youtube) <br/>
