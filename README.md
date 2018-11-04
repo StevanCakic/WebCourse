@@ -84,3 +84,4 @@ Kurs programiranja sa fokusom na web
     *CodeWars <br/>
     *CSS In-Depth, v2 (Frontend Masters) <br/>
     *Traversy Media (Youtube) <br/>
+    * Anjana Vakil — Functional Programming in JS: What? Why? How? (Youtube) <br/>
