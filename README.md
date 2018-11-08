@@ -77,6 +77,8 @@ Kurs programiranja sa fokusom na web
 **Week 12** <br/>
 - Class 26 - JavaScript, cetrnaesti dio <br/>
     Functional programming
+- Class 27 - JavaScript, petnaesti dio <br/>
+    OOP, prvi dio <br/>
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
