@@ -83,6 +83,7 @@ Kurs programiranja sa fokusom na web
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
     * JavaScript: The Hard Parts (Frontend Masters) <br/>
+    * JavaScript: The Hard Parts of Object Oriented JavaScript (Frontend Masters) <br/>
     * JavaScript: Understanding the Weird Parts (Udemy) <br/>
     * Deep JavaScript Foundations (Frontend Masters) <br/>
     * W3Schools <br/>
