@@ -77,10 +77,13 @@ Kurs programiranja sa fokusom na web
 **Week 12** <br/>
 - Class 26 - JavaScript, cetrnaesti dio <br/>
     Functional programming
+- Class 27 - JavaScript, petnaesti dio <br/>
+    OOP, prvi dio <br/>
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
     * JavaScript: The Hard Parts (Frontend Masters) <br/>
+    * JavaScript: The Hard Parts of Object Oriented JavaScript (Frontend Masters) <br/>
     * JavaScript: Understanding the Weird Parts (Udemy) <br/>
     * Deep JavaScript Foundations (Frontend Masters) <br/>
     * W3Schools <br/>
