@@ -8,6 +8,7 @@ Kurs programiranja sa fokusom na web
 - Homework 4 - JS mostly (DOM, Events, Callbacks, Closures)
 - Homework 5 - JS mostly (DOM, Events, Timers, App)
 - Homework 6 - Creating application
+- Homework 7 - Pomodoro Clock
 
 **Tests** <br/>
 - Initial test
@@ -83,13 +84,16 @@ Kurs programiranja sa fokusom na web
 **Week 13** <br/>
 - Class 28 - JavaScript, sesnaesti dio <br/>
     OOP, drugi dio <br/>
+- Class 29 - JavaScript, sedamnaesti dio <br/>
+    Generators, Iterators </br>
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
     * JavaScript: The Hard Parts (Frontend Masters) <br/>
+    * JavaScript: The New Hard Parts (Frontend Masters) <br/>
     * JavaScript: The Hard Parts of Object Oriented JavaScript (Frontend Masters) <br/>
-    * JavaScript: Understanding the Weird Parts (Udemy) <br/>
     * Deep JavaScript Foundations (Frontend Masters) <br/>
+    * JavaScript: Understanding the Weird Parts (Udemy) <br/>
     * W3Schools <br/>
     * The Complete JavaScript Course 2018: Build Real Projects! (Udemy) <br/>
     * CodeWars <br/>
