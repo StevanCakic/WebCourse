@@ -7,8 +7,9 @@ Kurs programiranja sa fokusom na web
 - Homework 3 - HTML, CSS, JS (DOM i Events)
 - Homework 4 - JS mostly (DOM, Events, Callbacks, Closures)
 - Homework 5 - JS mostly (DOM, Events, Timers, App)
-- Homework 6 - Creating application
+- Homework 6 - Budget application
 - Homework 7 - Pomodoro Clock
+- Homework 8 - Promises, Iterators/Generators, Calculator
 
 **Tests** <br/>
 - Initial test
