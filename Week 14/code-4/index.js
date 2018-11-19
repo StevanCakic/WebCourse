@@ -10,6 +10,19 @@ function memoize(target, key, descriptor) {
     }
 }
 
+function time(target, key, descriptor) {
+	const origFn = descriptor.value.bind(target);
+  
+  let i = 0;
+  descriptor.value = function (...args) {
+  	let id = i++;
+  	console.time(key + id);
+    let value = origFn(...args);
+  	console.timeEnd(key + id);
+  	return value;
+  };
+}
+
 const fns = {
     @time // iz prethodnog primjera
     @memoize // a bez memoize?
