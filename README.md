@@ -88,6 +88,10 @@ Kurs programiranja sa fokusom na web
     OOP, drugi dio <br/>
 - Class 29 - JavaScript, sedamnaesti dio <br/>
     Generators, Iterators </br>
+    
+**Week 14** <br/>
+- Class 30 - JavaScript, osamnaesti dio <br/>
+    Decorators, Memoization, ES6, OOP Composition, Partial and Curring, Regex
 
 **Reference** <br/>
 - Za pripremu ovih predavanja/domacih/testova koristio sam više kurseva i raznik online materijala: <br/>
